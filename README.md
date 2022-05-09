@@ -5,4 +5,4 @@ To aid nature organizations with conservation of black and brown bears, by colle
 
 
 Directions:
-With your Jetson Nano, please upload the bearAI script into your jetson-inference. With the resnet-18 network setup with the bearAI code, load your desired image within network and get an image classification. This image classifcation is stored into a dictionary database that can be accessed via the bearAI code. 
+With your Jetson Nano, please upload the bearAI script into your jetson-inference. With the resnet-18 network setup with the bearAI code, load your desired image within network and get an image classification. This image classifcation is stored into a dictionary database that can be accessed via the database_print code. 
